@@ -1,0 +1,8 @@
+# https://mygelagen.org/robots.txt
+User-agent: *
+Allow: /
+
+# Nothing on this site needs to be blocked from crawling —
+# it's a public review/landing site with no admin, cart or account area.
+
+Sitemap: https://mygelagen.org/sitemap.xml
